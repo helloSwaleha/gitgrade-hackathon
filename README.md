@@ -1,5 +1,8 @@
 # GitGrade – AI GitHub Repository Analyzer 🚀
 
+## 🎥 Project Demo
+https://github.com/user-attachments/assets/6d3d5285-9263-4d69-9b1d-808505612dd0
+
 ## Hackathon Project – UnsaidTalks
 
 GitGrade is an intelligent system that analyzes a GitHub repository and generates:
